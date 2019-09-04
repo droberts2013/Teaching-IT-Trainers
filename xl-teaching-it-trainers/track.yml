@@ -15,10 +15,10 @@ published: false
 challenges:
 - slug: 01-introduction
   id: zb9cbkzxnqmy
-  type: quiz
+  type: challenge
   title: Introduction
   teaser: Introduction teaser
-  assignment: Introduction assignment
+  assignment: Click check to continue
   notes:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-01-introduction.png
@@ -36,10 +36,10 @@ challenges:
   timelimit: 500
 - slug: 03-beginning
   id: wvs98oyqlkfj
-  type: quiz
+  type: challenge
   title: Beginning
   teaser: Beginning teaser
-  assignment: Beginning assignment
+  assignment: Click Check to continue
   notes:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-03-beginning.png
@@ -60,7 +60,7 @@ challenges:
   type: quiz
   title: Hands On
   teaser: Hands On teaser
-  assignment: Hands On assignment
+  assignment: Which of the following are true?
   notes:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-07-hands-on.png
@@ -73,7 +73,8 @@ challenges:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-11-problem.png
   answers:
-  - answer 7
+  - Real-life stories are an effective way to communicate the value of our tools.
+  - Breaks are a waste of time.  It's better to teach through the day without interruption.
   solution:
   - 0
   difficulty: basic
@@ -83,7 +84,7 @@ challenges:
   type: quiz
   title: End of Day
   teaser: End of Day teaser
-  assignment: End of Day assignment
+  assignment: Which of the following are true?
   notes:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-12-end-of-day.png
@@ -92,7 +93,9 @@ challenges:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-14-final-day.png
   answers:
-  - answer 12
+  - The instructor should compare the training plan with the actual progress each
+    day.
+  - Group learning is generally ineffective.
   solution:
   - 0
   difficulty: basic
@@ -102,7 +105,7 @@ challenges:
   type: quiz
   title: Debrief
   teaser: Debrief teaser
-  assignment: Debrief assignment
+  assignment: Which of the following are true?
   notes:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-15-debrief.png
@@ -111,9 +114,10 @@ challenges:
   - type: image
     url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-17-success.png
   answers:
-  - answer 15
+  - One practice run-through of the material is usually enough.
+  - Debriefing is effective for maintaining the quality of the training.
   solution:
-  - 0
+  - 1
   difficulty: basic
   timelimit: 500
-checksum: "6379621468590385663"
+checksum: "3390306211095020036"
