@@ -1,0 +1,6 @@
+version: "2"
+virtualmachines:
+- name: vm
+  image: debian-9
+  shell: /bin/bash
+  machine_type: g1-small

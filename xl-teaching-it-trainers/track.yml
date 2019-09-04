@@ -1,0 +1,298 @@
+slug: xl-teaching-it-trainers
+id: elgsyghrycdf
+type: track
+title: Teaching IT Trainers
+teaser: Training our consultants and engineers how to train our users
+description: Training our consultants and engineers how to train our users
+icon: ""
+tags:
+- ""
+owner: xebialabs
+developers:
+- droberts@xebialabs.com
+private: true
+published: false
+challenges:
+- slug: 01-introduction
+  id: zb9cbkzxnqmy
+  type: quiz
+  title: Introduction
+  teaser: Introduction teaser
+  assignment: Introduction assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-01-introduction.png
+  answers:
+  - answer 1
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 02-objectives
+  id: w8fcc0lzpnk4
+  type: quiz
+  title: Objectives
+  teaser: Objectives teaser
+  assignment: Objectives assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-02-objectives.png
+  answers:
+  - answer 2
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 02a-challenges
+  id: f9iwufzr4uey
+  type: quiz
+  title: Challenges
+  teaser: Challenges teaser
+  assignment: Challenges assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-02b-needs.png
+  answers:
+  - answer 2a
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 02b-needs
+  id: avejd05pkknk
+  type: quiz
+  title: Needs
+  teaser: Needs teaser
+  assignment: Needs assignment
+  answers:
+  - answer 2b
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 03-beginning
+  id: wvs98oyqlkfj
+  type: quiz
+  title: Beginning
+  teaser: Beginning teaser
+  assignment: Beginning assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-03-beginning.png
+  answers:
+  - answer 3
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 04-first-day
+  id: oza4kgpyfwj1
+  type: quiz
+  title: First Day
+  teaser: First Day teaser
+  assignment: First Day assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-04-first-day.png
+  answers:
+  - answer 4
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 05-concept-map
+  id: fs6mf7ul1znz
+  type: quiz
+  title: Concept Map
+  teaser: Concept Map teaser
+  assignment: Concept Map assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-05-concept-map.png
+  answers:
+  - answer 5
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 06-each-day
+  id: cknepnz1mxlh
+  type: quiz
+  title: Each Day
+  teaser: Each Day teaser
+  assignment: Each Day assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-06-each-day.png
+  answers:
+  - answer 6
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 07-hands-on
+  id: dynxlzboy1b3
+  type: quiz
+  title: Hands On
+  teaser: Hands On teaser
+  assignment: Hands On assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-07-hands-on.png
+  answers:
+  - answer 7
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 08-quizzing
+  id: f78jbttqmlyz
+  type: quiz
+  title: Quizzing
+  teaser: Quizzing teaser
+  assignment: Quizzing assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-08-quizzing.png
+  answers:
+  - answer 8
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 09-quizzes
+  id: qmbdsgxxddch
+  type: quiz
+  title: Quizzes
+  teaser: Quizzes teaser
+  assignment: Quizzes assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-09-quizzes.png
+  answers:
+  - answer 9
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 10-quiz
+  id: bq1vqmtvbtc3
+  type: quiz
+  title: Quiz
+  teaser: Quiz teaser
+  assignment: Quiz assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-10-quiz.png
+  answers:
+  - answer 10
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 11-problem
+  id: hnjruedb9yrf
+  type: quiz
+  title: Problem
+  teaser: Problem teaser
+  assignment: Problem assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-11-problem.png
+  answers:
+  - answer 11
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 12-end-of-day
+  id: 82zvblwuyjv5
+  type: quiz
+  title: End of Day
+  teaser: End of Day teaser
+  assignment: End of Day assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-12-end-of-day.png
+  answers:
+  - answer 12
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 13-prep-next-day
+  id: kmz0jjjemlgq
+  type: quiz
+  title: Prep the Next Day
+  teaser: Prep the Next Day teaser
+  assignment: Prep the Next Day assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-13-prep-next-day.png
+  answers:
+  - answer 13
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 14-final-day
+  id: anqx3n1fqyzq
+  type: quiz
+  title: Final Day
+  teaser: Final Day teaser
+  assignment: Final Day assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-14-final-day.png
+  answers:
+  - answer 14
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 15-debrief
+  id: 3aveokqulkjq
+  type: quiz
+  title: Debrief
+  teaser: Debrief teaser
+  assignment: Debrief assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-15-debrief.png
+  answers:
+  - answer 15
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 16-final-tips
+  id: qgv368yzxth5
+  type: quiz
+  title: Final Tips
+  teaser: Final Tips teaser
+  assignment: Final Tips assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-16-final-tips.png
+  answers:
+  - answer 16
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+- slug: 17-success
+  id: 07yyzru0iqnt
+  type: quiz
+  title: Success
+  teaser: Success teaser
+  assignment: Success assignment
+  notes:
+  - type: image
+    url: https://raw.githubusercontent.com/droberts2013/Teaching-IT-Trainers/master/images/slide-17-success.png
+  answers:
+  - answer 17
+  solution:
+  - 0
+  difficulty: basic
+  timelimit: 500
+checksum: "12454566906535063493"
